@@ -1,0 +1,92 @@
+c:\users\евгений\documents\visual studio 2010\Projects\TDC-Filial\TDC-Filial\bin\Debug\TDC-Filial.exe
+c:\users\евгений\documents\visual studio 2010\Projects\TDC-Filial\TDC-Filial\bin\Debug\TDC-Filial.pdb
+c:\users\евгений\documents\visual studio 2010\Projects\TDC-Filial\TDC-Filial\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\евгений\documents\visual studio 2010\Projects\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC_Filial.Form1.resources
+c:\users\евгений\documents\visual studio 2010\Projects\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC_Filial.Properties.Resources.resources
+c:\users\евгений\documents\visual studio 2010\Projects\TDC-Filial\TDC-Filial\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\евгений\documents\visual studio 2010\Projects\TDC-Filial\TDC-Filial\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\евгений\documents\visual studio 2010\Projects\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC-Filial.exe
+c:\users\евгений\documents\visual studio 2010\Projects\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC-Filial.pdb
+c:\users\евгений\documents\visual studio 2010\Projects\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC_Filial.Form2.resources
+C:\Users\Евгений\Documents\Visual Studio 2010\Projects\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC_Filial.Form3.resources
+C:\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC-Filial.exe
+C:\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC-Filial.pdb
+C:\TDC-Filial\TDC-Filial\bin\Debug\TDC-Filial.exe
+C:\TDC-Filial\TDC-Filial\bin\Debug\TDC-Filial.pdb
+C:\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC_Filial.Form1.resources
+C:\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC_Filial.Form2.resources
+C:\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC_Filial.Properties.Resources.resources
+C:\Users\User\YandexDisk\Общая папка\2.2 30.01 филиал\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC-Filial.exe
+C:\Users\User\YandexDisk\Общая папка\2.2 30.01 филиал\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC-Filial.pdb
+C:\Users\User\YandexDisk\Общая папка\2.2 30.01 филиал\TDC-Filial\TDC-Filial\bin\Debug\TDC-Filial.exe
+C:\Users\User\YandexDisk\Общая папка\2.2 30.01 филиал\TDC-Filial\TDC-Filial\bin\Debug\TDC-Filial.pdb
+C:\Users\User\YandexDisk\Общая папка\2.2 30.01 филиал\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC-Filial.csprojResolveAssemblyReference.cache
+C:\Users\User\YandexDisk\Общая папка\2.2 30.01 филиал\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC_Filial.Form1.resources
+C:\Users\User\YandexDisk\Общая папка\2.2 30.01 филиал\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC_Filial.Form2.resources
+C:\Users\User\YandexDisk\Общая папка\2.2 30.01 филиал\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC_Filial.Form3.resources
+C:\Users\User\YandexDisk\Общая папка\2.2 30.01 филиал\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC_Filial.Properties.Resources.resources
+C:\Users\User\YandexDisk\Общая папка\2.2 30.01 филиал\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC-Filial.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\2.2 30.01 филиал\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC-Filial.exe
+C:\Users\User\Desktop\2.2 30.01 филиал\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC-Filial.pdb
+C:\Users\User\Desktop\2.2 30.01 филиал\TDC-Filial\TDC-Filial\bin\Debug\TDC-Filial.exe
+C:\Users\User\Desktop\2.2 30.01 филиал\TDC-Filial\TDC-Filial\bin\Debug\TDC-Filial.pdb
+C:\Users\User\Desktop\2.2 30.01 филиал\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC-Filial.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\2.2 30.01 филиал\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC_Filial.Form1.resources
+C:\Users\User\Desktop\2.2 30.01 филиал\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC_Filial.Form2.resources
+C:\Users\User\Desktop\2.2 30.01 филиал\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC_Filial.Form3.resources
+C:\Users\User\Desktop\2.2 30.01 филиал\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC_Filial.Properties.Resources.resources
+C:\Users\User\Desktop\2.2 30.01 филиал\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC-Filial.csproj.GenerateResource.Cache
+C:\YandexDisk\TDC\2.4 филиал\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC-Filial.exe
+C:\YandexDisk\TDC\2.4 филиал\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC-Filial.pdb
+C:\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC_Filial.Form3.resources
+C:\TDC-Filial1\TDC-Filial\obj\x86\Debug\TDC-Filial.exe
+C:\TDC-Filial1\TDC-Filial\obj\x86\Debug\TDC-Filial.pdb
+C:\TDC-Filial1\TDC-Filial\bin\Debug\TDC-Filial.exe
+C:\TDC-Filial1\TDC-Filial\bin\Debug\TDC-Filial.pdb
+C:\TDC-Filial1\TDC-Filial\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\TDC-Filial1\TDC-Filial\obj\x86\Debug\TDC_Filial.Form1.resources
+C:\TDC-Filial1\TDC-Filial\obj\x86\Debug\TDC_Filial.Form2.resources
+C:\TDC-Filial1\TDC-Filial\obj\x86\Debug\TDC_Filial.Form3.resources
+C:\TDC-Filial1\TDC-Filial\obj\x86\Debug\TDC_Filial.Properties.Resources.resources
+C:\TDC-Filial1\TDC-Filial\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\TDC-Filial1\TDC-Filial\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC_Filial.Form4.resources
+C:\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC-Filial.csproj.ResolveComReference.cache
+C:\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC_Filial.Form6.resources
+D:\Локальный диск\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC-Filial.csproj.ResolveComReference.cache
+D:\Локальный диск\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC-Filial.exe
+D:\Локальный диск\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC-Filial.pdb
+D:\Локальный диск\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC_Filial.Form1.resources
+D:\Локальный диск\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC_Filial.Form2.resources
+D:\Локальный диск\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC_Filial.Form3.resources
+D:\Локальный диск\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC_Filial.Form4.resources
+D:\Локальный диск\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC_Filial.Form6.resources
+D:\Локальный диск\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC_Filial.Properties.Resources.resources
+D:\Локальный диск\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC-Filial.csproj.GenerateResource.Cache
+C:\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC-Filial.csproj.GenerateResource.Cache
+F:\Ой, всё 2\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC-Filial.csproj.ResolveComReference.cache
+F:\Ой, всё 2\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC-Filial.exe
+F:\Ой, всё 2\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC-Filial.pdb
+F:\Ой, всё 2\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC_Filial.Form1.resources
+F:\Ой, всё 2\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC_Filial.Form2.resources
+F:\Ой, всё 2\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC_Filial.Form3.resources
+F:\Ой, всё 2\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC_Filial.Form4.resources
+F:\Ой, всё 2\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC_Filial.Form6.resources
+F:\Ой, всё 2\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC_Filial.Properties.Resources.resources
+F:\Ой, всё 2\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC-Filial.csproj.GenerateResource.Cache
+F:\Ой, всё 2\TDC-Filial\TDC-Filial\bin\Debug\TDC-Filial.exe
+F:\Ой, всё 2\TDC-Filial\TDC-Filial\bin\Debug\TDC-Filial.pdb
+C:\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC_Filial.Form5.resources
+F:\1304\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC-Filial.csproj.ResolveComReference.cache
+F:\1304\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC-Filial.exe
+F:\1304\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC-Filial.pdb
+F:\1304\TDC-Filial\TDC-Filial\bin\Debug\TDC-Filial.exe
+F:\1304\TDC-Filial\TDC-Filial\bin\Debug\TDC-Filial.pdb
+F:\1304\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC_Filial.Form1.resources
+F:\1304\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC_Filial.Form2.resources
+F:\1304\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC_Filial.Form3.resources
+F:\1304\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC_Filial.Form4.resources
+F:\1304\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC_Filial.Form5.resources
+F:\1304\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC_Filial.Form6.resources
+F:\1304\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC_Filial.Properties.Resources.resources
+F:\1304\TDC-Filial\TDC-Filial\obj\x86\Debug\TDC-Filial.csproj.GenerateResource.Cache
